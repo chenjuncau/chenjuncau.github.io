@@ -21,7 +21,7 @@ My background is a **statistical geneticist**, **data Scientist**, **bioinformat
 
 ### Statistical Geneticist | Data Scientist in Genomics
 <!-- ![Image](https://www.cobb-vantress.com/assets/Uploads/eeea173a08/cobb-logo.png)    -->
-[Cobb-Vantress](https://www.cobb-vantress.com/) 2012 - Present 
+[Cobb-Vantress](https://www.cobb-vantress.com/) (Subsidiary of Tyson foods) 2012 - Present 
 
    * Researching, adapting, and implementing cutting edge statistical genetics approaches for analysesand interpretation of large scale proprietary and publicly available genomic data.  
    * Data processing and conducting QC on large scale Next Generation Sequencing datasets.  

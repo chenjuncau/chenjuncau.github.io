@@ -24,7 +24,7 @@ title:
 <p align="center">
   <img width="246" height="276" src="image/Jun_Chen_photo.jpg">
 </p>
-<div align="center"><h2>Data Scientist, Statistic Geneticist, Bioinformatician.</h2></div>
+<div align="center"><h2> Data Scientist, Statistic Geneticist, Bioinformatician.</h2></div>
 
 
 *****
